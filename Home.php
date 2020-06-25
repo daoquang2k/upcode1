@@ -5,7 +5,7 @@
 <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Home Version One || limupa - Digital Products Store eCommerce Bootstrap 4 Template</title>
+        <title>ATN ToyStore </title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- Favicon -->
@@ -3050,19 +3050,19 @@
                                 <!-- Begin Footer Logo Area -->
                                 <div class="col-lg-4 col-md-6">
                                     <div class="footer-logo">
-                                        <img src="images/menu/logo/1.jpg" alt="Footer Logo">
+                                        <img src="" alt="Footer Logo">
                                         <p class="info">
-                                            We are a team of designers and developers that create high quality HTML Template & Woocommerce, Shopify Theme.
+                                            I'm a pro coder.
                                         </p>
                                     </div>
                                     <ul class="des">
                                         <li>
                                             <span>Address: </span>
-                                            6688Princess Road, London, Greater London BAS 23JK, UK
+                                            8864 Nguyen Phong Sac
                                         </li>
                                         <li>
                                             <span>Phone: </span>
-                                            <a href="#">(+123) 123 321 345</a>
+                                            <a href="#">(+84) 123 321 345</a>
                                         </li>
                                         <li>
                                             <span>Email: </span>
